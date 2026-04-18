@@ -32,8 +32,6 @@ Le score final combine 4 criteres:
 
 ## Installation et lancement
 
-LEs étapes de l'intsallation et du lancement sont également présent dans "INSTALLATION.md"
-
 Depuis la racine du projet:
 
 python -m venv .venv
