@@ -34,9 +34,9 @@ Le score final combine 4 criteres:
 
 Depuis la racine du projet:
 
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
+- python -m venv .venv
+- .\.venv\Scripts\Activate.ps1
+- pip install -r requirements.txt
 
 
 ## Lancement
